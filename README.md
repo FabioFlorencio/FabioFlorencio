@@ -1,8 +1,11 @@
-<img width=100% bottom=50px src="https://github.com/FabioFlorencio/FabioFlorencio/assets/78650091/5b3eeb6a-0c27-41e2-9a6c-a2714850ac90"/>
+<img width=100% bottom=50px src="https://github.com/FabioFlorencio/FabioFlorencio/assets/78650091/293a6545-2f36-47c2-8d03-7ce96bea1291"/>
 <br>
-<br> 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+my+name+is+F%C3%A1bio.;I'm+a+software+developer.)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C732&random=false&width=435&lines=Hello%2C+my+name+is+F%C3%A1bio.;I'm+a+software+developer.)](https://git.io/typing-svg)
+</div>
 <br>
 <br>
 
@@ -67,15 +70,13 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFabioFlorencio&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visitantes%3A&ta=" alt="visits"></p> 
 <br>
 </div>
 
 
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
+
+<img align="center" height="200" width="100%" src="https://github.com/FabioFlorencio/FabioFlorencio/assets/78650091/524d4959-3eb6-4b95-b3d5-d84ac5bbbc1d">
 </a>
 </div>
 
@@ -83,4 +84,4 @@
 <br> 
 
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+
