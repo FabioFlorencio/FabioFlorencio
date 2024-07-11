@@ -29,18 +29,22 @@
 
 ### Main skills:
 <div align="left"> 
+<!-- HTML -->
+<img height="60" width="80" title="HTML" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+<!-- CSS -->
+<img height="60" width="80" title="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 <!-- Bootstrap -->
-<img align="left" height="160" width="80" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+<img height="100" width="120" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 <!-- Sass -->
-<img align="left" height="80" width="80" title="Sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
-<!-- Git -->
-<img align="left" height="60" width="60" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-<!-- Java -->
-<img align="left" height="60" width="80" title="Java" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg">
-<!-- MySql -->
-<img align="left" height="80" width="80" title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+<img style= "padding-right: 12px"  height="80" width="80" title="Sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 <!-- Figma -->
-<img align="left" height="80" width="80" title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+<img height="80" width="100" title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
+<!-- Git -->
+<img height="60" width="60" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+<!-- Java -->
+<img alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<!-- MySql -->
+<img style= "padding-right: 10px"  height="80" width="80" title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 
 </div>
 
@@ -56,14 +60,11 @@
 
 
 <div align="left"> 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
-
-<!-- Python -->
-<img align="left" height="80" width="80" title="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg">
 <!-- Kotlin -->
-<img align="left" height="80" width="80" title="Kotlin" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+<img align="left" height="80" width="140" title="Kotlin" style="padding-bottom: 30px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+<!-- Python -->
+<img style= "padding-top: 20px" align="left" height="40" width="140" title="Python" src="https://www.vectorlogo.zone/logos/python/python-official.svg">
 </div>
 
 
@@ -74,20 +75,7 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
-  
-<p align="center"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FFabioFlorencio&s=40&c=00ff00&bg=00000000&no=2&ff=digi&tb=Visitantes%3A&ta=" alt="visits"></p> 
-<br>
-</div>
 
-
-
-<img align="center" height="200" width="100%" src="https://github.com/FabioFlorencio/FabioFlorencio/assets/78650091/524d4959-3eb6-4b95-b3d5-d84ac5bbbc1d">
-</a>
-</div>
-
-<br>
-<br> 
 
 
 
