@@ -35,6 +35,14 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
 
+<!-- Bootstrap -->
+<img align="left" height="80" width="80" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+
+<!-- Sass -->
+<img align="left" height="80" width="80" title="Sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
+
+<img align="left" height="80" width="80" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
 
 <img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
