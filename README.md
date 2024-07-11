@@ -30,7 +30,7 @@
 ### Main skills:
 <div align="left"> 
 <!-- Bootstrap -->
-<img align="left" height="120" width="80" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
+<img align="left" height="160" width="80" title="Bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
 <!-- Sass -->
 <img align="left" height="80" width="80" title="Sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg">
 <!-- Git -->
@@ -40,10 +40,7 @@
 <!-- MySql -->
 <img align="left" height="80" width="80" title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 <!-- Figma -->
-<img align="left" height="80" width="80" title="Python" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
-
-
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left" height="80" width="80" title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg">
 
 </div>
 
