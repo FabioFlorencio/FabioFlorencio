@@ -42,11 +42,11 @@
 <!-- Git -->
 <img height="60" width="60" title="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 <!-- Java -->
-<img alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img alt="Java" height="70" width="70" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <!-- MySql -->
-<img style= "padding-right: 10px"  height="80" width="80" title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
+<img style="padding-right: 10px"  height="80" width="80" title="MySql" src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg">
 <!-- Trello -->
-<img height="100" width="100" title="MySql" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
+<img style="padding-right: 10px" height="100" width="100" title="Trello" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
 
 </div>
 
